@@ -1,10 +1,17 @@
 = Welcome
 
+[cols="30%,70%", frame=none, grid=none]
+|===
+a|
+image::contents/media/photo_linkedin_2020.png[]
+a|
 Hello, I'm *Amine HADJ-YOUCEF* - A seasoned Senior Data Scientist and ML
 Engineer with a PhD background, providing mentorship and sharing my
 insights as a published writer. As a proud husband, I am constantly
 striving for excellence. Connect with me on LinkedIn, check out my
 projects on Github, follow my writing on Medium, and view my scholarly works on Google Scholar
+
+|===
 
 * https://www.linkedin.com/in/aminehy[LinkedIn]
 * https://github.com/aminehy[Github]
