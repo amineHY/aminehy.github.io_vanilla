@@ -16,7 +16,7 @@ projects on Github, follow my writing on Medium, and view my scholarly works on 
 == Website Content
 
 - link:https://aminehy.github.io/slides[Slides]
-- link:https://aminehy.github.io/portoflio[Portfolio]
+- link:https://aminehy.github.io/portfolio[Portfolio]
 - link:https://aminehy.github.io/articles[Articles]
 
 // - <a href="https://aminehy.github.io/slides">Slides</a>
