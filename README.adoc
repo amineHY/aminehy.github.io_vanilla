@@ -9,21 +9,25 @@ Hello, I'm *Amine HADJ-YOUCEF* - A seasoned Senior Data Scientist and ML
 Engineer with a PhD background, providing mentorship and sharing my
 insights as a published writer. As a proud husband, I am constantly
 striving for excellence. Connect with me on LinkedIn, check out my
-projects on Github, follow my writing on Medium, and view my scholarly works on Google Scholar
+projects on Github, follow my writing on Medium, and view my scholarly works on Google Scholar.
 
+image:./media/README/image_2023-02-11-11-50-06_.png[im, 40px, link=https://www.linkedin.com/in/aminehy]
+image:./media/README/image_2023-02-11-12-00-00_.png[im, 40px, link=https://github.com/aminehy]
+image:./media/README/image_2023-02-11-12-02-28_.png[im, 40px, link=https://medium.com/@amine-hy] 
+image:./media/README/image_2023-02-11-12-03-13_.png[im, 40px, link=https://scholar.google.com/citations?user=NXUvxIMAAAAJ&hl=fr]
 |===
 
-* https://www.linkedin.com/in/aminehy[LinkedIn]
-* https://github.com/aminehy[Github]
-* https://medium.com/@amine-hy[Medium]
-* https://scholar.google.com/citations?user=NXUvxIMAAAAJ&hl=fr[Google Scholar]
-* https://www.researchgate.net/profile/Amine-Hadj-Youcef[ResearchGate]
+
+
+
+
+// * https://www.researchgate.net/profile/Amine-Hadj-Youcef[ResearchGate]
 
 
 == Website Content
 
-- link:https://aminehy.github.io/slides[Slides]
-- link:https://aminehy.github.io/portfolio[Portfolio]
+// - link:https://aminehy.github.io/slides[Slides]
+// - link:https://aminehy.github.io/portfolio[Portfolio]
 - link:https://aminehy.github.io/articles[Articles]
 
 // - <a href="https://aminehy.github.io/slides">Slides</a>
