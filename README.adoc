@@ -10,16 +10,12 @@
 a|
 image::contents/media/photo_linkedin_2020.png[]
 a|
-Hello, I'm *Amine HADJ-YOUCEF* - A seasoned Senior Data Scientist and ML
-Engineer with a PhD background, providing mentorship and sharing my
-insights as a published writer. As a proud husband, I am constantly
-striving for excellence. Connect with me on LinkedIn, check out my
-projects on Github, follow my writing on Medium, and view my scholarly works on Google Scholar.
+Hello, my name is *Amine HadjYoucef*. I provide consulting and support for business teams, defining their needs and translating them into technical solutions in Data Science and Machine Learning. I specialize in data collection, analysis, and exploration, as well as the design of analytical dashboards and the production of ML solutions on the cloud. My expertise also extends to project management, with a focus on tracking, direction, and meeting project goals and deadlines.
 
-image:./media/README/image_2023-02-11-11-50-06_.png[im, 40px, link=https://www.linkedin.com/in/aminehy]
-image:./media/README/image_2023-02-11-12-00-00_.png[im, 40px, link=https://github.com/aminehy]
-image:./media/README/image_2023-02-11-12-02-28_.png[im, 40px, link=https://medium.com/@amine-hy] 
-image:./media/README/image_2023-02-11-12-03-13_.png[im, 40px, link=https://scholar.google.com/citations?user=NXUvxIMAAAAJ&hl=fr]
+// image:./media/README/image_2023-02-11-11-50-06_.png[im, 40px, link=https://www.linkedin.com/in/aminehy]
+// image:./media/README/image_2023-02-11-12-00-00_.png[im, 40px, link=https://github.com/aminehy]
+// image:./media/README/image_2023-02-11-12-02-28_.png[im, 40px, link=https://medium.com/@amine-hy] 
+// image:./media/README/image_2023-02-11-12-03-13_.png[im, 40px, link=https://scholar.google.com/citations?user=NXUvxIMAAAAJ&hl=fr]
 |===
 
 // * https://www.researchgate.net/profile/Amine-Hadj-Youcef[ResearchGate]
