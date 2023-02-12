@@ -44,17 +44,17 @@ main {
 }
 
 main > .intro {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 2em;
   /* font-weight: lighter; */
   /* width: 70%; */
   text-align: center;
 }
 main > .hello {
-	font-family: monospace;
-	font-size: 3em;
-	/* width: 70%; */
-	text-align: left;
+  font-family: monospace;
+  font-size: 3em;
+  /* width: 70%; */
+  text-align: left;
 }
 
 main > .tagline {

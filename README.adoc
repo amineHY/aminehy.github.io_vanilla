@@ -1,4 +1,9 @@
 = Welcome
+:docinfo: shared
+:doctype: article
+:last-update-label!:
+:title: Amine Hadj-Youcef
+:nofooter:
 
 [cols="30%,70%", frame=none, grid=none]
 |===
@@ -17,18 +22,13 @@ image:./media/README/image_2023-02-11-12-02-28_.png[im, 40px, link=https://mediu
 image:./media/README/image_2023-02-11-12-03-13_.png[im, 40px, link=https://scholar.google.com/citations?user=NXUvxIMAAAAJ&hl=fr]
 |===
 
-
-
-
-
 // * https://www.researchgate.net/profile/Amine-Hadj-Youcef[ResearchGate]
 
 
-== Website Content
 
 // - link:https://aminehy.github.io/slides[Slides]
-// - link:https://aminehy.github.io/portfolio[Portfolio]
-- link:https://aminehy.github.io/articles[Articles]
+// - link:cv/cv_fr.html[CV]
+// - link:https://aminehy.github.io/articles[Articles]
 
 // - <a href="https://aminehy.github.io/slides">Slides</a>
 // - <a href="https://aminehy.github.io/portoflio">Portfolio</a>

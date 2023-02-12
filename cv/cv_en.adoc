@@ -1,0 +1,76 @@
+= CV 🇺🇸
+:keywords: Data Science, Machine Learning
+:toc: auto
+:toc-title:
+
+== Resume
+
+As an experienced Data Scientist with a PhD in Information Sciences and Technologies, I am committed to delivering value to my clients by utilizing my expertise in the design and implementation of advanced technical solutions that address real-world customer problems. I am pragmatic in my approach, and always strive to be result-driven, putting a high emphasis on making an impact for the clients and organization. My passion for data science and AI is matched by my dedication to mentoring and coaching junior team members. I am eager to leverage my extensive knowledge and experience to drive positive outcomes for my clients.
+
+// == Online Presence
+
+// [width="100%",cols="11%,89%",options="header",]
+// |===
+// |Website |URL
+// |Personnel |https://aminehy.github.io/
+// |LinkedIn |https://www.linkedin.com/in/aminehy/
+// |Medium |https://amine-hy.medium.com/
+// |Twitter |https://twitter.com/AmineHadjYoucef
+// |:email: |hadjyoucef.amine:rocket:gmail.com[hadjyoucef.amine@gmail.com]
+// |===
+
+== Main competencies
+
+. Consulting and support for business teams:
+* Definition of needs with business teams
+* Translation of business needs into technical solutions
+* Development of technical solutions in Data Science & Machine Learning:
+. Data collection, ingestion, filtering, enrichment, analysis and exploration
+* Design of analytical dashboards to showcase the data
+* Modeling and production of ML solutions on the cloud
+. Leadership, mentorship and management:
+* Project tracking, direction and management
+* Meeting project deadlines and goals
+
+== Technical Skills
+
+[cols=",",options="header",]
+|===
+| |Tools
+|Data Eng |Airtable, postgres, Delta Lake
+|Data Vis |PowerBI, Tableau, Redash
+|Big Data |Apache Spark, Azure Databricks
+|Data Science |Python, SQL, NumPy, pandas, Apache Spark
+|Machine Learning |Scikit-learn, HyperOpt, MLflow, Spark ML
+|DevOps |Git, GitHub, Docker, Flask, FastAPI, Postman
+|Cloud |Microsoft Azure, Amazon AWS, GCP
+|Computer Vision |OpenCV, Tensorflow
+|Gestion de Projet |Microsoft Teams, JIRA, Notion
+|Data |PNG/JPG, MP4, JSON, CSV/Excel, XML, Delta
+|===
+
+== Languages
+
+* 🇫🇷 French |Native
+* 🇺🇸 English |Native
+
+== 🎓 Education
+
+
+* 🎓 Doctorat, Sciences et Technologies de l’Information
+** 2018: Université Paris Saclay
+* 🎓 Master, Traitement du Signal et de l’image
+** 2015: Université de Bordeaux
+* 🎓 Engénieur, Electrinic Degree
+** 2021: Ecole Nationale Polytechnique (ENP)
+
+== Certifications
+
+* link:ressources\certificat_databricks_lakehouse.pdf[Academy
+Accreditation - Databricks Lakehouse Fundamentals]
+** 2022 : Databricks
+* link:ressources/Hackmakers%20-%20Hackmakers%20BuildwithAI%202020%20Mentor%20Certificate%20-%202020-08-13.png[Hackmakers
+#BuildwithAI Global Hack: Mentor Certificate]
+** 2020: Hackmakers
+* Deep Learning and Artificial Intelligence
+** 2018: École Polytechnique Palaiseau
