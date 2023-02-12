@@ -1,15 +1,14 @@
 @media only screen and (max-width: 767px) {
-    .tableblock {
-      width: 100%;
-      display: block;
-    }
-  
-    .tableblock .content {
-      margin: 10px 0;
-    }
-  
-    .tableblock td {
-      width: 100%;
-    }
+  .tableblock {
+    width: 100%;
+    display: block;
   }
-  
+
+  .tableblock .content {
+    margin: 10px 0;
+  }
+
+  .tableblock td {
+    width: 100%;
+  }
+}
