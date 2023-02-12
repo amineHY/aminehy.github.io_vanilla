@@ -77,3 +77,13 @@ footer {
   text-align: center;
   margin-top: 20px;
 }
+
+@media (max-width: 767px) {
+  .footer-container {
+    flex-direction: column;
+  }
+  .footer-item {
+    width: 100%;
+    text-align: center;
+  }
+}
