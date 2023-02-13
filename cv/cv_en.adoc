@@ -2,6 +2,8 @@
 :keywords: Data Science, Machine Learning
 :toc: auto
 :toc-title:
+:docinfo: shared
+:docinfodir: ../common/meta
 
 == Resume
 

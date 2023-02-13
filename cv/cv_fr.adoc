@@ -3,6 +3,8 @@
 :toc: auto
 :toc-title:
 :nofooter:
+:docinfo: shared
+:docinfodir: ../common/meta/
 
 == Résumé
 
