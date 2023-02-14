@@ -5,6 +5,8 @@
 :nofooter:
 :docinfo: shared
 :docinfodir: ../common/meta/
+:lang: fr-FR
+
 
 == Résumé
 

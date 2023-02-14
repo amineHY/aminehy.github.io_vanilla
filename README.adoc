@@ -5,6 +5,7 @@
 :last-update-label!:
 :title: Amine Hadj-Youcef
 :nofooter:
+:lang: fr
 include::common/config/config_urls.adoc[]
 
 

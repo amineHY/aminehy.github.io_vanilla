@@ -5,8 +5,10 @@
 :nofooter:
 :docinfo: shared
 :docinfodir: ../common/meta/
+:lang: fr-FR
+// en-US
 
-== Articles sur le Machine Learning 
+== Articles sur le Machine Learning
 * link:blog/guide_ml.html[Guide de Data Science et Machine Learning, window=_blank]
 
 ==  Articles publiés dans Medium
@@ -20,7 +22,6 @@
 * link:https://amine-hy.medium.com/model-centric-vs-data-centric-view-in-the-age-of-ai-b59c15a53fc4?source=your_stories_page-------------------------------------[Model-centricvs Data-centric View in the age of AI, window=_blank]
 * link:https://medium.com/swlh/pensar-sdk-1-647f778bc11[Pensar SDK: A Rapid ArtificialIntelligence Application Development Framework on the Edge Device, window=_blank]
 * link:https://towardsdatascience.com/simplify-your-data-science-project-with-this-tool-c493b9970280[Simplify your Data Science Project with this Tool, window=_blank, window=_blank]
-
 
 // == Slides
 

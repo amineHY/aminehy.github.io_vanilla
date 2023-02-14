@@ -6,6 +6,8 @@
 :nofooter:
 :docinfo: shared
 :docinfodir: ../common/meta/
+:lang: fr-FR
+
 
 == List des revues
 
@@ -60,6 +62,6 @@ link:https://ieeexplore.ieee.org/document/8553166[Spatio-spectral multichannel r
 // * https://amine-hy.medium.com/model-centric-vs-data-centric-view-in-the-age-of-ai-b59c15a53fc4[Model centric vs data centric view in the age of AI]
 // * https://amine-hy.medium.com/data-visualization-using-redash-on-the-cloud-63f6d4f2f1ef[Data visualization using redash on the cloud]
 
-== 📖 Poster de conférence
+== Poster de conférence
 
 * link:../GRETSI_poster.pdf.2017_08_08_17_compressed.pdf[Poster GRETSI 2017]

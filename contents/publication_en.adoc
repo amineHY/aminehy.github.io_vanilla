@@ -6,6 +6,8 @@
 :nofooter:
 :docinfo: shared
 :docinfodir: ../common/meta/
+:lang: en-US
+
 
 == 📖 Publisher List
 

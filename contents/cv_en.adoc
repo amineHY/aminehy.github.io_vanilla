@@ -4,6 +4,7 @@
 :toc-title:
 :docinfo: shared
 :docinfodir: ../common/meta
+:lang: en-US
 
 == Resume
 

@@ -2,7 +2,7 @@
 :sectnums!:
 :toc-title: Table des matières
 :lang: fr-FR
-:doctype: article
+:doctype: shared
 :docinfo: include
 :revdate: 04/02/2023
 :icons: font
@@ -11,9 +11,7 @@
 :highlightjs-languages: python
 :doctype: book
 :header:
-:header-text: Header Text
 :footer:
-:footer-text: Footer Text
 :html-source: html
 :revnumber: 0.1
 :revdate: 2023-02-05
