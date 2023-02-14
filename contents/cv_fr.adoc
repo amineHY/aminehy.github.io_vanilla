@@ -1,4 +1,4 @@
-= CV 🇫🇷
+= 🇫🇷 CV
 :keywords: Data Science, Machine Learning
 :toc: auto
 :toc-title:
