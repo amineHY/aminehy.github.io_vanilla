@@ -9,60 +9,45 @@
 
 == 📖 List des revues
 
-image:../assets/images/logo/eurasip-logo-trans02.png[image, width=100]
-image:https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Universit%C3%A9_Paris-Saclay.svg[image, width=100]
-image:https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg[image, width=100]
-image:../assets/images/logo/A_and_A[image, width=100]
-image:https://upload.wikimedia.org/wikipedia/commons/a/a5/Medium_icon.svg[image, width=100]
-
-== Published Articles in Scientific Journals
-* link:PhD/Efficient_Hyperspectral_Reconstruction_from_Wideband_____Images_Based_on_Linear_Mixing_Model.pdf[Efficient Hyperspectral Reconstruction from Wideband Images Based on Linear Mixing Model]
+image::https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg[image, width=150]
+image::../assets/images/logo/eurasip-logo-trans02.png[image, width=150]
+image::https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Universit%C3%A9_Paris-Saclay.svg[image, width=150]
+image::../assets/images/logo/A_and_A[image, width=150]
+// image:https://upload.wikimedia.org/wikipedia/commons/a/a5/Medium_icon.svg[image, width=150]
 
 
-== Published Articles in International Conferences
+// == Published Articles in International Conferences
 
-* link:./PhD/EUSIPCO_2017.pdf[EUSIPCO 2017 : Restoration from Multispectral Blurred Data with Non-Stationary Instrument Response]
-* link:./PhD/GRETSI_2017.pdf[GRETSI 2017 : Restauration d’objets astrophysiques à partir de données multispectrales floues et d’une réponse instrument non-stationnaire]
+// * link:https://ieeexplore.ieee.org/abstract/document/8081258[EUSIPCO 2017 : Restoration from Multispectral Blurred Data with Non-Stationary Instrument Response, window=_blank]
+
+// * link:https://hal.science/hal-01596257/[GRETSI 2017 : Restauration d’objets astrophysiques à partir de données multispectrales floues et d’une réponse instrument non-stationnaire, window=_blank]
 
 
 == 📖 Publication dans des revues scientifiques
 
 * Hadj-Youcef, M. A., Orieux, F., Abergel, A., & Fraysse, A. (2020).
-Fast Joint Multiband Reconstruction From Wideband Images Based on
-Low-Rank Approximation. IEEE Transactions on Computational Imaging, 6,
-922–933.
+link:https://ieeexplore.ieee.org/abstract/document/9103043[Fast Joint Multiband Reconstruction From Wideband Images Based on Low-Rank Approximation, window=_blank]. IEEE Transactions on Computational Imaging, 6, 922–933.
+
 * Boucaud, A., Bocchio, M., Abergel, A., Orieux, F., Dole, H., &
-Hadj-Youcef, M. A. (2016). _Convolution kernels for multi-wavelength
-imaging_. _October_, 7. https://doi.org/10.1051/0004-6361/201629080
+Hadj-Youcef, M. A. (2016). link:https://www.aanda.org/articles/aa/abs/2016/12/aa29080-16/aa29080-16.html[Convolution kernels for multi-wavelength imaging, window=_blank]. _October_, 7. https://doi.org/10.1051/0004-6361/201629080
 
 == 📖 Publication dans des conférences internationales
 
-* Hadj-Youcef, M. A., Bousbia-Salah, A., & Adnane, M. (2018). Feature
-selection applied to wavelet packet transform for an efficient EEG
-signal classification. 2018 International Conference on Electrical
-Sciences and Technologies in Maghreb.
-* Hadj-youcef, A. (2014). Reconstruction des Images par des méthodes
-d’optimisation convexes et non lisses.
-* Hadj-youcef, M. A., & Abergel, A. (2017). Restauration d’objets
-astrophysiques à partir de données multispectrales floues et une réponse
-instrument non stationnaire. Gdr Isis, 123(908), 2017.
-* Orieux, F., Fraysse, A., & Abergel, A. (2018).Restoration from
-Multispectral Blurred Data with Non-Stationary Instrument Response. ii,
-1–5.
+* Hadj-Youcef, M. A., Bousbia-Salah, A., & Adnane, M. (2018). link:https://ieeexplore.ieee.org/abstract/document/8613366[Feature selection applied to wavelet packet transform for an efficient EEG signal classification, window=_blank]. 2018 International Conference on Electrical Sciences and Technologies in Maghreb.
 
-* Hadj-Youcef, M. E. (2018). Spatio spectral reconstruction from
-low-resolution multispectral data: Application to the Mid-Infrared
-instrument of the James Webb Space Telescope. Université Paris-Saclay
-(ComUE).
+* Hadj-youcef, M. A., & Abergel, A. (2017). link:https://hal.science/hal-01596257/[Restauration d’objets astrophysiques à partir de données multispectrales floues et une réponse instrument non stationnaire, window=_blank]. Gdr Isis, 123(908), 2017.
+
+* Orieux, F., Fraysse, A., & Abergel, A. (2018). link:https://ieeexplore.ieee.org/abstract/document/8081258[Restoration from multispectral blurred data with non-stationary instrument response, window=_blank]. ii, 1–5.
+
+* Hadj-Youcef, M. E. (2018). link:https://www.theses.fr/2018SACLS326[Spatio spectral reconstruction from low resolution multispectral data: application to the Mid-Infrared instrument of the James Webb Space Telescope, window=_blank]. Université Paris-Saclay (ComUE).
+
 * Hadj-Youcef, M. A., Orieux, F., Fraysse, A., & Abergel, A. (2018).
-link:https://ieeexplore.ieee.org/document/8553166[Spatio-spectral multichannel reconstruction from few low-resolution multispectral data]. 2018 26th European Signal Processing Conference
-(EUSIPCO), 1980–1984.
-// * link:./PhD/EUSIPCO_2018.pdf[EUSIPCO 2018 : Spatio-Spectral Multichannel Reconstruction from few Low-Resolution Multispectral Data]
+link:https://ieeexplore.ieee.org/document/8553166[Spatio-spectral multichannel reconstruction from few low-resolution multispectral data, window=_blank]. 2018 26th European Signal Processing Conference (EUSIPCO), 1980–1984.
 
-* Hadj-Youcef, M. A., Adnane, M., & Bousbia-Salah, A. (2013). Detection
-of epileptics during seizure-free periods. 2013 8th International
-Workshop on Systems, Signal Processing and Their Applications, WoSSPA
-2013, May, 209–213. https://doi.org/10.1109/WoSSPA.2013.6602363
+* Hadj-Youcef, M. A., Adnane, M., & Bousbia-Salah, A. (2013). link:https://ieeexplore.ieee.org/abstract/document/6602363[Detection of epileptics during seizure-free periods, window=_blank]. 2013 8th International Workshop on Systems, Signal Processing and Their Applications, WoSSPA 2013, May, 209–213.
+
+
+* Hadj-youcef, A. (2014). Reconstruction des Images par des méthodes d’optimisation convexes et non lisses.
 
 // == 📖 Publication dans Medium
 
