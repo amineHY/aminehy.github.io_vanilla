@@ -31,3 +31,7 @@
 :link-logo-dv: https://www.dronevolt.com/wp-content/uploads/2020/01/logo_dronevolt_menu.svg
 :link-logo-tag: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TAG_Heuer_logo.svg/1200px-TAG_Heuer_logo.svg.png
 :link-logo-ias: https://www.ias.u-psud.fr/sites/default/files/logoias.jpg
+:link-logo-supelec: https://upload.wikimedia.org/wikipedia/commons/b/b3/Ecole_Centrale_Supelec_logo.svg
+:link-logo-m2i: https://yt3.ggpht.com/a/AGF-l791eNhIhlL3lHjcx0_P1QCf7JlmKzS37uwJbg=s900-c-k-c0xffffffff-no-rj-mo
+
+:link-logo-oc: https://i.pinimg.com/736x/2c/a6/c8/2ca6c8d907e76428a30ce6b4aad8f6a6.jpg
