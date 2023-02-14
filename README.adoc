@@ -14,21 +14,8 @@ a|
 image::contents/media/photo_linkedin_2020.png[]
 a|
 Hello, my name is *Amine Hadj-Youcef*. I provide consulting and support for business teams, defining their needs and translating them into technical solutions in Data Science and Machine Learning. I specialize in data collection, analysis, and exploration, as well as the design of analytical dashboards and the production of ML solutions on the cloud. My expertise also extends to project management, with a focus on tracking, direction, and meeting project goals and deadlines.
-
-// image:./media/README/image_2023-02-11-11-50-06_.png[im, 40px, link=https://www.linkedin.com/in/aminehy]
-// image:./media/README/image_2023-02-11-12-00-00_.png[im, 40px, link=https://github.com/aminehy]
-// image:./media/README/image_2023-02-11-12-02-28_.png[im, 40px, link=https://medium.com/@amine-hy] 
-// image:./media/README/image_2023-02-11-12-03-13_.png[im, 40px, link=https://scholar.google.com/citations?user=NXUvxIMAAAAJ&hl=fr]
 |===
 
-// * https://www.researchgate.net/profile/Amine-Hadj-Youcef[ResearchGate]
 
 
-
-// - link:https://aminehy.github.io/slides[Slides]
-// - link:cv/cv_fr.html[CV]
-// - link:https://aminehy.github.io/articles[Articles]
-
-// - <a href="https://aminehy.github.io/slides">Slides</a>
-// - <a href="https://aminehy.github.io/portoflio">Portfolio</a>
-// - <a href="https://aminehy.github.io/articles">Articles</a>
+// image:../logo/A_and_A[image, 70]
