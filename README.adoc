@@ -18,13 +18,13 @@ Hello, my name is *Amine Hadj-Youcef*. I provide consulting and support for busi
 |===
 
 
-Client qui m'ont fait confiance
-
+// .Client qui m'ont fait confiance
+[.text-center]
+****
 image:{link-logo-sncf}[width=100]
 image:{link-logo-tag}[width=100]
 image:{link-logo-dv}[width=100]
 image:{link-logo-ias}[width=100]
-
 
 image:https://i.pinimg.com/736x/2c/a6/c8/2ca6c8d907e76428a30ce6b4aad8f6a6.jpg[width=100]
 image:{link-logo-atos}[width=100]
@@ -32,5 +32,5 @@ image:{link-logo-bouygues}[width=100]
 image:{link-logo-tf1}[width=100]
 image:{link-logo-decathlon}[width=100]
 image:{link-logo-lucy}[width=100]
-
+****
 // image:../logo/A_and_A[image, 70]
