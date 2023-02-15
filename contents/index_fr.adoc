@@ -33,8 +33,12 @@ image:{link-logo-ias}[width=100]
 image:{link-logo-saclay}[width=100]
 image:{link-logo-supelec}[width=100]
 image:{link-logo-ets}[width=100]
+image:{link-logo-imb}[width=100]
+image:{link-logo-ubordeaux}[width=100]
 image:{link-logo-enp}[width=100]
 image:{link-logo-esi}[width=100]
+
+
 
 image:{link-logo-m2i}[width=85]
 image:{link-logo-oc}[width=80]
