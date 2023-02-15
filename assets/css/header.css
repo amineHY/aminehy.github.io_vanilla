@@ -1,6 +1,5 @@
 .navbar {
   direction: rtl;
-  /* float: right; */
 }
 
 header {
@@ -23,4 +22,21 @@ header nav li {
 header nav a {
   color: #fff;
   text-decoration: none;
+}
+
+.lang-toggle {
+  margin-left: auto;
+  margin-right: 20px;
+}
+
+.lang-btn {
+  background-color: #333;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  padding: 0 10px;
+}
+
+.lang-btn:hover {
+  background-color: #666;
 }

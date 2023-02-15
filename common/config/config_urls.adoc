@@ -35,3 +35,6 @@
 :link-logo-m2i: https://yt3.ggpht.com/a/AGF-l791eNhIhlL3lHjcx0_P1QCf7JlmKzS37uwJbg=s900-c-k-c0xffffffff-no-rj-mo
 
 :link-logo-oc: https://i.pinimg.com/736x/2c/a6/c8/2ca6c8d907e76428a30ce6b4aad8f6a6.jpg
+:link-logo-ets: https://www.etsmtl.ca/getmedia/826e98bf-cb67-4281-8a25-69bdd0038590/Logo_ETS_TypoGrise_D_EN_1
+:link-logo-enp: https://www.enp.edu.dz/storage/2020/06/logo-ENP-hd-1024x897-1.png
+:link-logo-esi: https://www.esi.dz/wp-content/uploads/2021/04/ESI-Logo-BG-e1627076162748.png
