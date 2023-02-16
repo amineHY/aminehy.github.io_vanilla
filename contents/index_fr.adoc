@@ -22,7 +22,6 @@ Bonjour, je m'appelle *Amine Hadj-Youcef*. Je fournis des services de consultati
 |===
 
 
-// .Client qui m'ont fait confiance
 [.text-center]
 ****
 image:{link-logo-sncf}[width=100]

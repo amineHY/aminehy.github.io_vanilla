@@ -1,19 +1,26 @@
 <div class="navbar-container">
-
-  <a class="navbar-brand" href="/index.html"><i class="fa-solid fa-earth-africa fa-lg" ></i></a>
-
-  <!-- <p lang="fr">Bonjour!</p>
-  <p lang="en">Hello!</p> -->
+  <a class="navbar-brand" href="/index.html"
+    ><i class="fa-solid fa-earth-africa fa-lg"></i
+  ></a>
 
   <nav class="navbar">
     <ul>
-      <li><a href="/html/cv_fr.html"><i class="ai ai-cv"></i></a></li>
+      <li>
+        <a href="/html/cv_fr.html"><i class="ai ai-cv"></i></a>
+      </li>
       <li><a href="/html/publication_fr.html">Publication📖</a></li>
       <li><a href="/html/articles_fr.html">Articles📑</a></li>
-      <li><a href="/index.html"><i class="fa-solid fa-house"></i></a></li>
-      <!-- <li class="lang-toggle">
-        <button class="lang-btn" type="button" id="language-toggle">EN/FR</button>
-      </li> -->
+      <li>
+        <a href="/index_fr.html"><i class="fa-solid fa-house"></i></a>
+      </li>
     </ul>
+
+    <div class="language-switcher">
+      <label for="language-select">Select</label>
+      <select id="language-select" onchange="changeLanguage()">
+        <option value="fr" selected>🇫🇷</option>
+        <option value="en">🇺🇸</option>
+      </select>
+    </div>
   </nav>
 </div>
