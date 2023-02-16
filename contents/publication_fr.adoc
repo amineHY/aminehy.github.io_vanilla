@@ -15,17 +15,9 @@ image::https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg[image, 
 image::../assets/images/logo/eurasip-logo-trans02.png[image, width=150]
 image::https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Universit%C3%A9_Paris-Saclay.svg[image, width=150]
 image::../assets/images/logo/A_and_A[image, width=150]
-// image:https://upload.wikimedia.org/wikipedia/commons/a/a5/Medium_icon.svg[image, width=150]
 
 
-// == Published Articles in International Conferences
-
-// * link:https://ieeexplore.ieee.org/abstract/document/8081258[EUSIPCO 2017 : Restoration from Multispectral Blurred Data with Non-Stationary Instrument Response, window=_blank]
-
-// * link:https://hal.science/hal-01596257/[GRETSI 2017 : Restauration d’objets astrophysiques à partir de données multispectrales floues et d’une réponse instrument non-stationnaire, window=_blank]
-
-
-== Publication dans des revues scientifiques
+== Articles de revues internationales
 
 * Hadj-Youcef, M. A., Orieux, F., Abergel, A., & Fraysse, A. (2020).
 link:https://ieeexplore.ieee.org/abstract/document/9103043[Fast Joint Multiband Reconstruction From Wideband Images Based on Low-Rank Approximation, window=_blank]. IEEE Transactions on Computational Imaging, 6, 922–933.
@@ -33,7 +25,7 @@ link:https://ieeexplore.ieee.org/abstract/document/9103043[Fast Joint Multiband 
 * Boucaud, A., Bocchio, M., Abergel, A., Orieux, F., Dole, H., &
 Hadj-Youcef, M. A. (2016). link:https://www.aanda.org/articles/aa/abs/2016/12/aa29080-16/aa29080-16.html[Convolution kernels for multi-wavelength imaging, window=_blank]. _October_, 7.
 
-== Publication dans des conférences internationales
+== Articles de conférences internationales
 
 * Hadj-Youcef, M. A., Bousbia-Salah, A., & Adnane, M. (2018). link:https://ieeexplore.ieee.org/abstract/document/8613366[Feature selection applied to wavelet packet transform for an efficient EEG signal classification, window=_blank]. 2018 International Conference on Electrical Sciences and Technologies in Maghreb.
 
