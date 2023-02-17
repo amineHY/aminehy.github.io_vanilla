@@ -9,13 +9,13 @@ function changeLanguage() {
     'a[href="/html/publication_fr.html"], a[href="/html/publication_en.html"]'
   );
   const indexLink = document.querySelectorAll(
-    'a[href="index_fr.html"], a[href="index_en.html"]'
+    'a[href="index.html"], a[href="index_en.html"]'
   );
 
   if (language === "fr") {
     cvLink.href = "/html/cv_fr.html";
     publicationLink.forEach((link) => (link.href = "/html/publication_fr.html"));
-    indexLink.forEach((link) => (link.href = "index_fr.html"));
+    indexLink.forEach((link) => (link.href = "index.html"));
     localStorage.setItem("selectedLanguage", "fr");
   } else {
     cvLink.href = "/html/cv_en.html";
