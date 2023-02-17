@@ -1,12 +1,5 @@
 = 📑 Articles
-:keywords: Data Science, Machine Learning
-:toc: auto
-:toc-title:
-:nofooter:
-:docinfo: shared
-:docinfodir: ../common/meta/
-:lang: fr-FR
-// en-US
+include::../common/config/config_asciidoc_fr.adoc[]
 
 == Articles sur le Machine Learning
 * link:blog/guide_ml.html[Guide de Data Science et Machine Learning, window=_blank]

@@ -1,14 +1,7 @@
-= Welcome
-:docinfo: shared
-:docinfodir: ../common/meta
-:doctype: article
-:last-update-label!:
-:title: Amine Hadj-Youcef
-:nofooter:
-:lang: fr
+= Bienvenu
 include::../common/config/config_urls.adoc[]
-
-
+include::../common/config/config_asciidoc_fr.adoc[]
+// :stylesheet: https://cdn.jsdelivr.net/npm/tailwindcss@2.2.7/dist/tailwind.min.css
 
 [cols="30%,70%", frame=none, grid=none]
 |===

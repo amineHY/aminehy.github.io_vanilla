@@ -1,12 +1,6 @@
 = Guide pour la réalisation de projets en Machine Learning
-include::../../common/config/config_asciidoc.adoc[]
 Amine Hadj-Youcef
-:keywords: Data Science, Machine Learning
-:toc: auto
-:toc-title:
-:nofooter:
-:docinfo: shared
-:docinfodir: ../../common/meta/
+include::../../common/config/config_asciidoc_fr.adoc[]
 :sectnums:
 
 == Introduction

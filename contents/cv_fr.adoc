@@ -1,11 +1,5 @@
 = 🇫🇷 CV
-:keywords: Data Science, Machine Learning
-:toc: auto
-:toc-title:
-:nofooter:
-:docinfo: shared
-:docinfodir: ../common/meta/
-:lang: fr-FR
+include::../common/config/config_asciidoc_fr.adoc[]
 
 
 == Résumé
