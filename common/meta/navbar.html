@@ -4,6 +4,15 @@
   ></a>
 
   <nav class="navbar">
+
+    <div class="language-switcher">
+      <label for="language-select"></label>
+      <select id="language-select" onchange="changeLanguage()">
+        <option value="fr" selected>🇫🇷</option>
+        <option value="en">🇺🇸</option>
+      </select>
+    </div>
+    
     <ul>
       <li>
         <a href="/html/cv_fr.html"><i class="ai ai-cv"></i></a>
@@ -15,12 +24,5 @@
       </li>
     </ul>
 
-    <div class="language-switcher">
-      <label for="language-select">Select</label>
-      <select id="language-select" onchange="changeLanguage()">
-        <option value="fr" selected>🇫🇷</option>
-        <option value="en">🇺🇸</option>
-      </select>
-    </div>
   </nav>
 </div>
