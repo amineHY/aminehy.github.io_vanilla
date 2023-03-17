@@ -3,7 +3,7 @@
 
 .Folder Structure Tree
 [.text-left]
-****
+----
 .
 ├── assets
 │   ├── css
@@ -41,5 +41,4 @@
 │   ├── publication_fr.adoc
 │   └── publication_fr.html
 └── README.adoc
-
-****
+----
